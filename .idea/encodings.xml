@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/my-shop-service/itqf-10-cart-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-service/itqf-email-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-service/itqf-index-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-service/itqf-product-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-service/itqf-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-service/itqf-sms-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-service/itqf-staticresource-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-service/itqf-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-web/itqf-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-web/itqf-index" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-web/itqf-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-web/itqf-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/my-shop-web/itqf-sso" charset="UTF-8" />
+  </component>
+</project>

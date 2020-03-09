@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/itqf-10-cart-service/itqf-10-cart-service.iml" filepath="$PROJECT_DIR$/my-shop-service/itqf-10-cart-service/itqf-10-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-web/itqf-cart/itqf-cart.iml" filepath="$PROJECT_DIR$/my-shop-web/itqf-cart/itqf-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/itqf-email-service/itqf-email-service.iml" filepath="$PROJECT_DIR$/my-shop-service/itqf-email-service/itqf-email-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-web/itqf-index/itqf-index.iml" filepath="$PROJECT_DIR$/my-shop-web/itqf-index/itqf-index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/itqf-index-service/itqf-index-service.iml" filepath="$PROJECT_DIR$/my-shop-service/itqf-index-service/itqf-index-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-web/itqf-product/itqf-product.iml" filepath="$PROJECT_DIR$/my-shop-web/itqf-product/itqf-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/itqf-product-service/itqf-product-service.iml" filepath="$PROJECT_DIR$/my-shop-service/itqf-product-service/itqf-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-web/itqf-search/itqf-search.iml" filepath="$PROJECT_DIR$/my-shop-web/itqf-search/itqf-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/itqf-search-service/itqf-search-service.iml" filepath="$PROJECT_DIR$/my-shop-service/itqf-search-service/itqf-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/itqf-sms-service/itqf-sms-service.iml" filepath="$PROJECT_DIR$/my-shop-service/itqf-sms-service/itqf-sms-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-web/itqf-sso/itqf-sso.iml" filepath="$PROJECT_DIR$/my-shop-web/itqf-sso/itqf-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/itqf-staticresource-service/itqf-staticresource-service.iml" filepath="$PROJECT_DIR$/my-shop-service/itqf-staticresource-service/itqf-staticresource-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/itqf-user-service/itqf-user-service.iml" filepath="$PROJECT_DIR$/my-shop-service/itqf-user-service/itqf-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-basic/my-shop-basic.iml" filepath="$PROJECT_DIR$/my-shop-basic/my-shop-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-register-api/my-shop-register-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-register-api/my-shop-register-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-service/my-shop-service.iml" filepath="$PROJECT_DIR$/my-shop-service/my-shop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-shop-web/my-shop-web.iml" filepath="$PROJECT_DIR$/my-shop-web/my-shop-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myzyw-shop.iml" filepath="$PROJECT_DIR$/.idea/myzyw-shop.iml" />
+    </modules>
+  </component>
+</project>

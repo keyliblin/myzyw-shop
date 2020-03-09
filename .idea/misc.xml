@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/my-shop-api/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-service/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-service/itqf-10-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-service/itqf-email-service/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-service/itqf-index-service/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-service/itqf-product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-service/itqf-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-service/itqf-sms-service/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-service/itqf-staticresource-service/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-service/itqf-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web/itqf-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web/itqf-index/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web/itqf-product/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web/itqf-search/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-web/itqf-sso/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

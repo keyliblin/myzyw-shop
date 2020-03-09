@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itqf-search-service" />
+        <module name="my-shop-web" />
+        <module name="itqf-10-cart-service" />
+        <module name="itqf-product-service" />
+        <module name="itqf-search" />
+        <module name="my-shop-basic" />
+        <module name="my-shop-service" />
+        <module name="itqf-index" />
+        <module name="itqf-product" />
+        <module name="itqf-staticresource-service" />
+        <module name="itqf-sms-service" />
+        <module name="itqf-email-service" />
+        <module name="my-shop-register-api" />
+        <module name="itqf-user-service" />
+        <module name="itqf-index-service" />
+        <module name="itqf-cart" />
+        <module name="itqf-sso" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itqf-10-cart-service" target="1.8" />
+      <module name="itqf-cart" target="1.8" />
+      <module name="itqf-email-service" target="1.8" />
+      <module name="itqf-index" target="1.8" />
+      <module name="itqf-index-service" target="1.8" />
+      <module name="itqf-product" target="1.8" />
+      <module name="itqf-product-service" target="1.8" />
+      <module name="itqf-search" target="1.8" />
+      <module name="itqf-search-service" target="1.8" />
+      <module name="itqf-sms-service" target="1.8" />
+      <module name="itqf-sso" target="1.8" />
+      <module name="itqf-staticresource-service" target="1.8" />
+      <module name="itqf-user-service" target="1.8" />
+      <module name="my-shop-api" target="1.8" />
+      <module name="my-shop-basic" target="1.8" />
+      <module name="my-shop-register-api" target="1.8" />
+      <module name="my-shop-service" target="1.8" />
+      <module name="my-shop-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="itqf-10-cart-service" options="-parameters" />
+      <module name="itqf-cart" options="-parameters" />
+      <module name="itqf-email-service" options="-parameters" />
+      <module name="itqf-index" options="-parameters" />
+      <module name="itqf-index-service" options="-parameters" />
+      <module name="itqf-product" options="-parameters" />
+      <module name="itqf-product-service" options="-parameters" />
+      <module name="itqf-search" options="-parameters" />
+      <module name="itqf-search-service" options="-parameters" />
+      <module name="itqf-sms-service" options="-parameters" />
+      <module name="itqf-sso" options="-parameters" />
+      <module name="itqf-staticresource-service" options="-parameters" />
+      <module name="itqf-user-service" options="-parameters" />
+    </option>
+  </component>
+</project>
