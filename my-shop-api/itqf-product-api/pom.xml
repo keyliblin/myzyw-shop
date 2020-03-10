@@ -2,17 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>my-shop-api</artifactId>
+        <groupId>com.itqf</groupId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.itqf</groupId>
-    <artifactId>my-shop-basic</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0.0-SNAPSHOT</version>
-    <modules>
-        <module>itqf-entity</module>
-        <module>itqf-mappers</module>
-        <module>itqf-commons</module>
-    </modules>
+    <artifactId>itqf-product-api</artifactId>
 
 
 </project>

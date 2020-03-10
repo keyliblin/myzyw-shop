@@ -25,5 +25,12 @@
         <option value="$PROJECT_DIR$/my-shop-web/itqf-sso/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/my-shop-api/my-shop-register-api/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-basic/itqf-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/my-shop-basic/itqf.entity/pom.xml" />
+      </set>
+    </option>
   </component>
 </project>

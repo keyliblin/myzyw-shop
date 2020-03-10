@@ -9,7 +9,12 @@
     <packaging>pom</packaging>
     <version>1.0.0-SNAPSHOT</version>
     <modules>
-        <module>my-shop-register-api</module>
+        <module>itqf-cart-api</module>
+        <module>itqf-product-api</module>
+        <module>itqf-product-type-api</module>
+        <module>itqf-resoures-api</module>
+        <module>itqf-search-api</module>
+        <module>itqf-user-api</module>
     </modules>
 
 

@@ -9,16 +9,23 @@
         <module name="itqf-search-service" />
         <module name="my-shop-web" />
         <module name="itqf-10-cart-service" />
-        <module name="itqf-product-service" />
         <module name="itqf-search" />
-        <module name="my-shop-basic" />
+        <module name="itqf-cart-api" />
+        <module name="itqf-user-api" />
+        <module name="itqf-entity" />
+        <module name="itqf-resoures-api" />
+        <module name="itqf-product-api" />
         <module name="my-shop-service" />
+        <module name="itqf-product-type-api" />
         <module name="itqf-index" />
         <module name="itqf-product" />
-        <module name="itqf-staticresource-service" />
+        <module name="itqf-product-service" />
         <module name="itqf-sms-service" />
+        <module name="itqf-search-api" />
+        <module name="itqf-staticresource-service" />
+        <module name="itqf-commons" />
         <module name="itqf-email-service" />
-        <module name="my-shop-register-api" />
+        <module name="itqf-mappers" />
         <module name="itqf-user-service" />
         <module name="itqf-index-service" />
         <module name="itqf-cart" />
@@ -28,16 +35,26 @@
     <bytecodeTargetLevel>
       <module name="itqf-10-cart-service" target="1.8" />
       <module name="itqf-cart" target="1.8" />
+      <module name="itqf-cart-api" target="1.8" />
+      <module name="itqf-commons" target="1.8" />
       <module name="itqf-email-service" target="1.8" />
+      <module name="itqf-entity" target="1.8" />
       <module name="itqf-index" target="1.8" />
       <module name="itqf-index-service" target="1.8" />
+      <module name="itqf-mapper" target="1.8" />
+      <module name="itqf-mappers" target="1.8" />
       <module name="itqf-product" target="1.8" />
+      <module name="itqf-product-api" target="1.8" />
       <module name="itqf-product-service" target="1.8" />
+      <module name="itqf-product-type-api" target="1.8" />
+      <module name="itqf-resoures-api" target="1.8" />
       <module name="itqf-search" target="1.8" />
+      <module name="itqf-search-api" target="1.8" />
       <module name="itqf-search-service" target="1.8" />
       <module name="itqf-sms-service" target="1.8" />
       <module name="itqf-sso" target="1.8" />
       <module name="itqf-staticresource-service" target="1.8" />
+      <module name="itqf-user-api" target="1.8" />
       <module name="itqf-user-service" target="1.8" />
       <module name="my-shop-api" target="1.8" />
       <module name="my-shop-basic" target="1.8" />
